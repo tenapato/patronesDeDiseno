@@ -1,0 +1,15 @@
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\bin\Debug\net6.0\03.1_Builder.exe
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\bin\Debug\net6.0\03.1_Builder.deps.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\bin\Debug\net6.0\03.1_Builder.runtimeconfig.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\bin\Debug\net6.0\03.1_Builder.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\bin\Debug\net6.0\03.1_Builder.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\obj\Debug\net6.0\03.1_Builder.csproj.AssemblyReference.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\obj\Debug\net6.0\03.1_Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\obj\Debug\net6.0\03.1_Builder.AssemblyInfoInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\obj\Debug\net6.0\03.1_Builder.AssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\obj\Debug\net6.0\03.1_Builder.csproj.CoreCompileInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\obj\Debug\net6.0\03.1_Builder.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\obj\Debug\net6.0\refint\03.1_Builder.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\obj\Debug\net6.0\03.1_Builder.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\obj\Debug\net6.0\03.1_Builder.genruntimeconfig.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Builder\obj\Debug\net6.0\ref\03.1_Builder.dll

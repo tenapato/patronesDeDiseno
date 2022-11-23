@@ -1,0 +1,15 @@
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\bin\Debug\net6.0\FactoryMethod.exe
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\bin\Debug\net6.0\FactoryMethod.deps.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\bin\Debug\net6.0\FactoryMethod.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\bin\Debug\net6.0\FactoryMethod.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\obj\Debug\net6.0\FactoryMethod.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\obj\Debug\net6.0\refint\FactoryMethod.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\obj\Debug\net6.0\FactoryMethod.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Factory_Method\obj\Debug\net6.0\ref\FactoryMethod.dll

@@ -1,0 +1,15 @@
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\bin\Debug\net6.0\04.0_Prototype.exe
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\bin\Debug\net6.0\04.0_Prototype.deps.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\bin\Debug\net6.0\04.0_Prototype.runtimeconfig.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\bin\Debug\net6.0\04.0_Prototype.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\bin\Debug\net6.0\04.0_Prototype.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\obj\Debug\net6.0\04.0_Prototype.csproj.AssemblyReference.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\obj\Debug\net6.0\04.0_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\obj\Debug\net6.0\04.0_Prototype.AssemblyInfoInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\obj\Debug\net6.0\04.0_Prototype.AssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\obj\Debug\net6.0\04.0_Prototype.csproj.CoreCompileInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\obj\Debug\net6.0\04.0_Prototype.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\obj\Debug\net6.0\refint\04.0_Prototype.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\obj\Debug\net6.0\04.0_Prototype.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\obj\Debug\net6.0\04.0_Prototype.genruntimeconfig.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Prototype\obj\Debug\net6.0\ref\04.0_Prototype.dll

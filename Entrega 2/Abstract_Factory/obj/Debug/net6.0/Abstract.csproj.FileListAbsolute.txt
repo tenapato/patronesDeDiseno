@@ -1,0 +1,5 @@
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Abstract_Factory\obj\Debug\net6.0\Abstract.csproj.AssemblyReference.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Abstract_Factory\obj\Debug\net6.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Abstract_Factory\obj\Debug\net6.0\Abstract.AssemblyInfoInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Abstract_Factory\obj\Debug\net6.0\Abstract.AssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Abstract_Factory\obj\Debug\net6.0\Abstract.csproj.CoreCompileInputs.cache

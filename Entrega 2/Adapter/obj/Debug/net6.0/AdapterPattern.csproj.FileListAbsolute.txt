@@ -1,0 +1,140 @@
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\bin\Debug\net6.0\appsettings.json
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\bin\Debug\net6.0\AdapterPattern.exe
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\bin\Debug\net6.0\AdapterPattern.deps.json
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\bin\Debug\net6.0\AdapterPattern.runtimeconfig.json
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\bin\Debug\net6.0\AdapterPattern.dll
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\bin\Debug\net6.0\AdapterPattern.pdb
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.AssemblyReference.cache
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\scopedcss\bundle\AdapterPattern.styles.css
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.CopyComplete
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.dll
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\refint\AdapterPattern.dll
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.pdb
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.genruntimeconfig.cache
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\obj\Debug\net6.0\ref\AdapterPattern.dll
+C:\Users\loren\Desktop\Semestre 9\Arquitectura\Actividades_arquitectura\Entrega_1\AdapterPattern\AdapterPattern\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\bin\Debug\net6.0\appsettings.Development.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\bin\Debug\net6.0\appsettings.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\bin\Debug\net6.0\AdapterPattern.exe
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\bin\Debug\net6.0\AdapterPattern.deps.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\bin\Debug\net6.0\AdapterPattern.runtimeconfig.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\bin\Debug\net6.0\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\bin\Debug\net6.0\AdapterPattern.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.AssemblyReference.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.AssemblyInfoInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.AssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.MvcApplicationPartsAssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.MvcApplicationPartsAssemblyInfo.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\scopedcss\bundle\AdapterPattern.styles.css
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.CopyComplete
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\refint\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\AdapterPattern.genruntimeconfig.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\AdapterPattern\AdapterPattern\obj\Debug\net6.0\ref\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\bin\Debug\net6.0\appsettings.Development.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\bin\Debug\net6.0\appsettings.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\bin\Debug\net6.0\AdapterPattern.exe
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\bin\Debug\net6.0\AdapterPattern.deps.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\bin\Debug\net6.0\AdapterPattern.runtimeconfig.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\bin\Debug\net6.0\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\bin\Debug\net6.0\AdapterPattern.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.AssemblyReference.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\AdapterPattern.AssemblyInfoInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\AdapterPattern.AssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\AdapterPattern.MvcApplicationPartsAssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\AdapterPattern.MvcApplicationPartsAssemblyInfo.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\scopedcss\bundle\AdapterPattern.styles.css
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.CopyComplete
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\refint\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\AdapterPattern.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\AdapterPattern.genruntimeconfig.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV2\AdapterPattern\obj\Debug\net6.0\ref\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\AdapterPattern.csproj.AssemblyReference.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\AdapterPattern.AssemblyInfoInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\AdapterPattern.AssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\AdapterPattern.MvcApplicationPartsAssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\AdapterPattern.MvcApplicationPartsAssemblyInfo.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\refint\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\AdapterPattern.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\bin\Debug\net6.0\appsettings.Development.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\bin\Debug\net6.0\appsettings.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\bin\Debug\net6.0\AdapterPattern.exe
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\bin\Debug\net6.0\AdapterPattern.deps.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\bin\Debug\net6.0\AdapterPattern.runtimeconfig.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\bin\Debug\net6.0\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\bin\Debug\net6.0\AdapterPattern.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\AdapterPattern.csproj.AssemblyReference.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\AdapterPattern.AssemblyInfoInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\AdapterPattern.AssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\AdapterPattern.MvcApplicationPartsAssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\AdapterPattern.MvcApplicationPartsAssemblyInfo.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\scopedcss\bundle\AdapterPattern.styles.css
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\AdapterPattern.csproj.CopyComplete
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\refint\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\AdapterPattern.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\AdapterPattern.genruntimeconfig.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapterV3\obj\Debug\net6.0\ref\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\bin\Debug\net6.0\appsettings.Development.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\bin\Debug\net6.0\appsettings.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\bin\Debug\net6.0\AdapterPattern.exe
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\bin\Debug\net6.0\AdapterPattern.deps.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\bin\Debug\net6.0\AdapterPattern.runtimeconfig.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\bin\Debug\net6.0\AdapterPattern.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\bin\Debug\net6.0\AdapterPattern.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\staticwebassets.build.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\staticwebassets.development.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\scopedcss\bundle\AdapterPattern.styles.css
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\AdapterPattern.csproj.CopyComplete
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\AdapterPattern.genruntimeconfig.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\APIadapter\obj\Debug\net6.0\ref\AdapterPattern.dll

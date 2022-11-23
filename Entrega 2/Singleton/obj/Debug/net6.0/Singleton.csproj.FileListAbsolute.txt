@@ -1,0 +1,15 @@
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\bin\Debug\net6.0\Singleton.exe
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\bin\Debug\net6.0\Singleton.deps.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\bin\Debug\net6.0\Singleton.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\bin\Debug\net6.0\Singleton.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\obj\Debug\net6.0\Singleton.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\obj\Debug\net6.0\Singleton.pdb
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+D:\ITC\Noveno Semestre\Diseno y arq de sw\patronesDeDiseno\Entrega 2\Singleton\obj\Debug\net6.0\ref\Singleton.dll
